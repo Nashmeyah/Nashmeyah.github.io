@@ -1,11 +1,11 @@
 # Site settings
 author: Nashmeyah Al-Rekabi
-title: 
+title: OverByte_
 header-img: img/home-bg.png
 email: nashalrekabi@gmail.com
 copyright_name: Nashmeyah Al-Rekabi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I am Nashmeyah
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Nashmeyah
