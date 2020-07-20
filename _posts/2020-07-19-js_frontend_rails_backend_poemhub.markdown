@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "JS FrontEnd/ Rails Backend PoemHub"
-date:       2020-07-20 02:12:47 +0000
+title:      "JS FrontEnd/ Rails Backend PoemHub/Verselets"
+date:       2020-07-19 22:12:48 -0400
 permalink:  js_frontend_rails_backend_poemhub
 ---
 
@@ -54,6 +54,9 @@ class Poem {
  
  
 This class is in its own js file, the js file has a specific role and allows me to understand what each piece is doing and less confusion as well as easier to spot bugs and errors. 
+
+If you would like to view more of my code and this app that I built, you can view it here... 
+https://github.com/Nashmeyah/Verselet
 
  
  
